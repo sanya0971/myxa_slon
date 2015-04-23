@@ -2,7 +2,7 @@
 #include <string>
 #include <unordered_set>
 #include <vector>
-#include "lib.h"
+#include "Solution.h"
 #include <fstream>
 using namespace std;
 

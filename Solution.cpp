@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 MacBook Pro. All rights reserved.
 //
 
-#include "lib.h"
+#include "Solution.h"
 
 
 bool Solution::is_changeable(const string &lhs, const string &rhs){

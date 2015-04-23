@@ -6,9 +6,6 @@
 //  Copyright (c) 2015 MacBook Pro. All rights reserved.
 //
 
-#ifndef __word__lib__
-#define __word__lib__
-
 #include <iostream>
 #include <string>
 #include <stdio.h>
@@ -26,5 +23,3 @@ public:
     using Level = vector<string>;
     int ladderLength(string start, string end, unordered_set<string> &dict);
 };
-
-#endif /* defined(__word__lib__) */
